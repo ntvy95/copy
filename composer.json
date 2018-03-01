@@ -1,5 +1,5 @@
 {
-	"name": "koutogima/copy",
+	"name": "ntvy95/copy",
 	"type": "phpbb-extension",
 	"description": "COPY BBcode.",
 	"homepage": "",
@@ -7,7 +7,7 @@
 	"license": "GPL-2.0",
 	"authors": [
 		{
-			"name": "koutogima",
+			"name": "ntvy95",
 			"email": "",
 			"homepage": "",
 			"role": ""
